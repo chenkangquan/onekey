@@ -1,0 +1,16 @@
+v 3
+d lily
+d 一键完成一套实证
+d Distribution-Date: 20250916
+
+f lily.ado
+f lily.mlib
+f lily.sthlp
+f lily_dr.ado
+f lily_dr.mlib
+f lily_dr.sthlp
+f lily_xz.ado
+f lily_xz.mlib
+f lily_xz.sthlp
+f lily_cl.ado
+f lily_cl.mlib
